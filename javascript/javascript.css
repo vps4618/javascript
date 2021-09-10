@@ -1,0 +1,87 @@
+img{
+    display: block;
+    margin:0 auto;
+    margin-top: 30px;
+    height:auto;
+    width:auto;
+    border:5px solid wheat  ;
+    border-radius: 30px;
+}
+
+.para{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    font-size: 40px;
+    text-shadow: 3px 2px black;
+    border:2px solid red;
+    height:auto;
+    width:auto;
+    margin: 50px;
+    padding-bottom: 20px;;
+    background-color: bisque;
+    border-radius: 15px;
+}
+
+body{
+    border:10px dashed blueviolet;
+    margin:10px;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    border:5px dotted chocolate;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: cornflowerblue;
+    text-shadow: 2px 2px rebeccapurple;
+    background-color:whitesmoke;
+    height: auto;
+    width: auto;
+    border-radius: 10px;
+}
+
+button{
+    margin-bottom: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    height: auto;
+    width:auto;
+    border:4px solid blue;
+    border-radius: 5px;
+    font-weight: bold;
+    text-shadow: 3px 2px 5px rgb(228, 97, 119);
+    color:darkslategray;
+}
+.imgtext{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+    border: 3px solid greenyellow;
+    margin:AUTO;
+    background-color: rgba(218, 54, 136, 0.788);
+    color:lavender;
+    height:auto auto 30px auto;
+    min-height: 50PX;
+    WIDTH:250PX;
+}
+
+.buttontext{
+    
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+    border: 3px solid greenyellow;
+    margin:auto;
+    background-color: rgba(228, 78, 153, 0.747);
+    color:lavender;
+    
+    height: auto;
+    margin:AUTO auto 30px auto;
+    MIN-HEIGHT:50PX;
+    WIDTH:250PX;
+
+}

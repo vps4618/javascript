@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>What Can JavaScript Do?</h2>
+
+ <iframe id="demo" width="720" height="404" src="bnjaara.mp4" title="Vishwa Praveen web page videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<br>
+<button type="button" onclick="document.getElementById('demo').src='galiyan.mp4'">galiyan</button>
+<hr><br>
+<button onclick="document.getElementById('demo').src='bnjaara.mp4'">banjaara</button>
+<hr>
+</body>
+</html> 
